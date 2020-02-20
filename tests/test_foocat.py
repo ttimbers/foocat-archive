@@ -1,0 +1,1 @@
+from foocat import foocat
